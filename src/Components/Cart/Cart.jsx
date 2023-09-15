@@ -7,7 +7,7 @@ const Cart = ({selectCourses,totalCredit,remaining}) => {
     return (
         <div>
             <h2>Credit Hour Remaining : {remaining} hr</h2>
-            <p>Total Credit Hour :{totalCredit}</p>
+            <p>Total Credit Hour : {totalCredit}</p>
             <h5>Course Title</h5>
             
           {
